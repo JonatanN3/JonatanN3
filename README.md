@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure
-- [Group-Policy-Managing-Accounts-Active-Directory](https://github.com/JonatanN3/Group-Policy-Managing-Accounts-Active-Directory)
+- <b>Microsoft Azure</b>
+   - [Group Policy Managing Accounts Active Directory](https://github.com/JonatanN3/Group-Policy-Managing-Accounts-Active-Directory)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="JonatanN3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
