@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>End-to-End Active-Directory-and-Management-in-Microsoft-Azure</b>
+- <b>End-to-End Active-Directory and Management in Microsoft Azure</b>
    - [Group Policy Managing Accounts Active Directory](https://github.com/JonatanN3/Group-Policy-Managing-Accounts-Active-Directory)
 <h2>🤳Connect with me:</h2>
 
