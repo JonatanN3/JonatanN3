@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Building a Windows Server Lab Infrastructure in Microsoft Azure</b>
+- <b>Building Active Directory Infrastructure in Microsoft Azure</b>
    - [Microsoft Azure Virtual Machine Infrastructure](https://github.com/JonatanN3/Microsoft-Azure-Virtual-Machine-Infrastructure)
 <h2>🤳Connect with me:</h2>
 
