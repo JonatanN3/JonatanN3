@@ -4,6 +4,7 @@
 
 - <b>End-to-End Active-Directory and Management in Microsoft Azure</b>
    - [ Building Active Directory Infrastructure in Microsoft Azure](https://github.com/JonatanN3/Building-Active-Directory-Infrastructure-in-Microsoft-Azure)
+   - [ Deploying-Active-Directory-and-Joining-a-Client-to-the-Domain](https://github.com/JonatanN3/Deploying-Active-Directory-and-Joining-a-Client-to-the-Domain)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="JonatanN3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
