@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Building Active Directory Infrastructure in Microsoft Azure</b>
-   - [Microsoft Azure Virtual Machine Infrastructure](https://github.com/JonatanN3/Microsoft-Azure-Virtual-Machine-Infrastructure)
+- <b>End-to-End Active-Directory and Management in Microsoft Azure</b>
+   - [ Building Active Directory Infrastructure in Microsoft Azure](https://github.com/JonatanN3/Building-Active-Directory-Infrastructure-in-Microsoft-Azure)
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="JonatanN3 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
