@@ -6,7 +6,7 @@
    - [ Building Active Directory Infrastructure in Microsoft Azure](https://github.com/JonatanN3/Building-Active-Directory-Infrastructure-in-Microsoft-Azure)
    - [ Deploying Active Directory and-Joining a Client to the Domain](https://github.com/JonatanN3/Deploying-Active-Directory-and-Joining-a-Client-to-the-Domain)
    - [ Automating Active Directory User Creation with PowerShell](https://github.com/JonatanN3/Automating-Active-Directory-User-Creation-with-PowerShell)
-   - [ Group Policy Managing Accounts Active Directory](https://github.com/JonatanN3/Group-Policy-Managing-Accounts-Active-Directory)
+   - [ Implementing Group Policy and Managing User Accounts in Active Directory](https://github.com/JonatanN3/Implementing-Group-Policy-and-Managing-User-Accounts-in-Active-Directory)
 
 
 <h2>🤳Connect with me:</h2>
