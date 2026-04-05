@@ -2,12 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>End-to-End Active-Directory and Management in Microsoft Azure</b>
-   - [ Building Active Directory Infrastructure in Microsoft Azure](https://github.com/JonatanN3/Building-Active-Directory-Infrastructure-in-Microsoft-Azure)
-   - [ Deploying Active Directory and-Joining a Client to the Domain](https://github.com/JonatanN3/Deploying-Active-Directory-and-Joining-a-Client-to-the-Domain)
-   - [ Automating Active Directory User Creation with PowerShell](https://github.com/JonatanN3/Automating-Active-Directory-User-Creation-with-PowerShell)
-   - [ Implementing Group Policy and Managing User Accounts in Active Directory](https://github.com/JonatanN3/Implementing-Group-Policy-and-Managing-User-Accounts-in-Active-Directory)
-
+- <b>Active Directory Management in Microsoft Azure</b>
+   - [Building and Managing an Active Directory Environment in Microsoft Azure](https://github.com/JonatanN3/Building-and-Managing-an-Active-Directory-Environment-in-Microsoft-Azure)
 
 <h2>🤳Connect with me:</h2>
 
