@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Active Directory Management in Microsoft Azure</b>
+- <b>Active Directory in Microsoft Azure</b>
    - [Building and Managing an Active Directory Environment in Microsoft Azure](https://github.com/JonatanN3/Building-and-Managing-an-Active-Directory-Environment-in-Microsoft-Azure)
 
 <h2>🤳Connect with me:</h2>
